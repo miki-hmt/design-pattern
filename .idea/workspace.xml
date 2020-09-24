@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5577d11a-5575-40d2-89e9-e524850acccf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/8-1-简单工厂模式-maven/target/" />
+    <ignored path="$PROJECT_DIR$/8-13-代理模式-maven/target/" />
+    <ignored path="$PROJECT_DIR$/8-17-解释器模式-maven/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <ignored path="$PROJECT_DIR$/8-18-观察者模式/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-18-观察者模式/src/main/java/com/miki/guavademo/GuavaEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-8-装饰者模式/src/com/miki/decorater/v2/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-13-代理模式-maven/src/main/java/com/miki/proxy/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-9-适配器模式/定义说明">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/objectadapter/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/objectadapter/Adapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/objectadapter/Adaptee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/PowerAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-13-代理模式-maven/src/main/java/com/miki/proxy/dynamicproxy/OrderServiceDynamicProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="26" column="37" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="37" />
+              <folding>
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-13-代理模式-maven/src/main/java/com/miki/proxy/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-13-代理模式-maven/src/main/java/com/miki/proxy/OrderDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-13-代理模式-maven/定义说明">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8-8-装饰者模式/定义说明">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Logger</find>
+      <find>new</find>
+      <find>mysql</find>
+      <find>TC_OBJECT</find>
+      <find>ReadResolveMethod</find>
+      <find>ReadResolve</find>
+      <find>readResolveMethod</find>
+      <find>房东</find>
+      <find>提供者</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/8-18-观察者模式/src/main/java/com/miki/guavademo/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/8-18-观察者模式/src/main/java/com/miki/guavademo/GuavaEvent.java" />
+        <option value="$PROJECT_DIR$/8-18-观察者模式/src/main/java/com/miki/guavademo/App.java" />
+        <option value="$PROJECT_DIR$/8-19-备忘录模式/src/com/miki/memento/ArticleMemento.java" />
+        <option value="$PROJECT_DIR$/8-19-备忘录模式/src/com/miki/memento/ArticleMementoManager.java" />
+        <option value="$PROJECT_DIR$/8-19-备忘录模式/src/com/miki/memento/Article.java" />
+        <option value="$PROJECT_DIR$/8-19-备忘录模式/src/com/miki/memento/App.java" />
+        <option value="$PROJECT_DIR$/8-19-备忘录模式/定义说明" />
+        <option value="$PROJECT_DIR$/8-20-命令模式/src/com/miki/command/Command.java" />
+        <option value="$PROJECT_DIR$/8-20-命令模式/src/com/miki/command/CourseVideo.java" />
+        <option value="$PROJECT_DIR$/8-20-命令模式/src/com/miki/command/OpenCourseVideo.java" />
+        <option value="$PROJECT_DIR$/8-20-命令模式/src/com/miki/command/CloseCourseVideo.java" />
+        <option value="$PROJECT_DIR$/8-20-命令模式/src/com/miki/command/Staff.java" />
+        <option value="$PROJECT_DIR$/8-20-命令模式/src/com/miki/command/App.java" />
+        <option value="$PROJECT_DIR$/8-20-命令模式/定义说明" />
+        <option value="$PROJECT_DIR$/8-21-中介者模式/src/com/miki/mediator/User.java" />
+        <option value="$PROJECT_DIR$/8-21-中介者模式/src/com/miki/mediator/App.java" />
+        <option value="$PROJECT_DIR$/8-21-中介者模式/src/com/miki/mediator/StudyGroup.java" />
+        <option value="$PROJECT_DIR$/8-21-中介者模式/定义说明" />
+        <option value="$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/Course.java" />
+        <option value="$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/Approver.java" />
+        <option value="$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/ArticleApprover.java" />
+        <option value="$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/VideoApprover.java" />
+        <option value="$PROJECT_DIR$/8-22-责任链设计模式/定义说明" />
+        <option value="$PROJECT_DIR$/8-23-访问者模式/src/com/miki/visitor/Course.java" />
+        <option value="$PROJECT_DIR$/8-23-访问者模式/src/com/miki/visitor/IVisitor.java" />
+        <option value="$PROJECT_DIR$/8-23-访问者模式/src/com/miki/visitor/CodingCourse.java" />
+        <option value="$PROJECT_DIR$/8-23-访问者模式/src/com/miki/visitor/FreeCourse.java" />
+        <option value="$PROJECT_DIR$/8-23-访问者模式/src/com/miki/visitor/Visitor.java" />
+        <option value="$PROJECT_DIR$/8-23-访问者模式/src/com/miki/visitor/App.java" />
+        <option value="$PROJECT_DIR$/8-23-访问者模式/定义说明" />
+        <option value="$PROJECT_DIR$/8-24-状态模式/定义说明" />
+        <option value="$PROJECT_DIR$/8-24-状态模式/src/com/miki/state/CourseVideoState.java" />
+        <option value="$PROJECT_DIR$/8-24-状态模式/src/com/miki/state/PlayState.java" />
+        <option value="$PROJECT_DIR$/8-24-状态模式/src/com/miki/state/SpeedState.java" />
+        <option value="$PROJECT_DIR$/8-24-状态模式/src/com/miki/state/StopState.java" />
+        <option value="$PROJECT_DIR$/8-24-状态模式/src/com/miki/state/PauseState.java" />
+        <option value="$PROJECT_DIR$/8-24-状态模式/src/com/miki/state/CourseVideoContext.java" />
+        <option value="$PROJECT_DIR$/8-24-状态模式/src/com/miki/state/App.java" />
+        <option value="$PROJECT_DIR$/8-8-装饰者模式/定义说明" />
+        <option value="$PROJECT_DIR$/8-9-适配器模式/定义说明" />
+        <option value="$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/AC220.java" />
+        <option value="$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/DC5.java" />
+        <option value="$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/PowerAdapter.java" />
+        <option value="$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/demo2/interfaces/Filter.java" />
+        <option value="$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/demo2/FilterChain.java" />
+        <option value="$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/demo2/interfaces/HtmlFilter.java" />
+        <option value="$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/demo2/interfaces/SensitiveFilter.java" />
+        <option value="$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/demo2/MsgProcessor.java" />
+        <option value="$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/App.java" />
+        <option value="$PROJECT_DIR$/8-7-外观模式/src/com/miki/structural/PointGiftExchangeService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Soft/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Work\maven-house\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="8-1-简单工厂模式-maven" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="8-1-简单工厂模式-maven" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="8-1-简单工厂模式-maven" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="240" />
+    <option name="y" value="125" />
+    <option name="width" value="1440" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="软件设计7大原则-23种设计模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="软件设计7大原则-23种设计模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="软件设计7大原则-23种设计模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="软件设计7大原则-23种设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="8-9-适配器模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="软件设计7大原则-23种设计模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="软件设计7大原则-23种设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="8-9-适配器模式" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="软件设计7大原则-23种设计模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="软件设计7大原则-23种设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="8-13-代理模式-maven" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/demo2" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="G:\Program Files\JetBrains\IntelliJ IDEA 2019.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\work\idea-workspace\workspace\软件设计7大原则-23种设计模式\8-22-责任链设计模式\src\com\miki\chainofresponsibility\demo2" />
+      <recent name="G:\work\idea-workspace\workspace\软件设计7大原则-23种设计模式\8-24-状态模式" />
+      <recent name="G:\work\idea-workspace\workspace\软件设计7大原则-23种设计模式\8-23-访问者模式" />
+      <recent name="G:\work\idea-workspace\workspace\软件设计7大原则-23种设计模式\8-22-责任链设计模式" />
+      <recent name="G:\work\idea-workspace\workspace\软件设计7大原则-23种设计模式\8-21-中介者模式" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.miki.singleton.lazysingleton" />
+      <recent name="com.miki.proxy.staticproxy" />
+      <recent name="com.miki.adapter.objectadapter" />
+      <recent name="com.miki.prototype.v2" />
+      <recent name="com.miki.builder.v2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\work\idea-workspace\workspace\软件设计7大原则-23种设计模式\8-8-装饰者模式" />
+      <recent name="G:\work\idea-workspace\workspace\软件设计7大原则-23种设计模式\1-开闭原则\src" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://api.su.baidu.com" />
+          <option name="urlPath" value="/v3/yjs/analytics/summarycount" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="X-Auth-Access-Key" />
+                <option name="value" value="30fa7ff1a37b4a238c2a7e4ab8d6998f" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="X-Auth-Signature-Method" />
+                <option name="value" value="HMAC-SHA1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="zname" />
+                <option name="value" value="sharehoo.cn" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filter_type" />
+                <option name="value" value="date" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_key" />
+                <option name="value" value="30fa7ff1a37b4a238c2a7e4ab8d6998f" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="secret_key" />
+                <option name="value" value="877f618c7f324949be38ef547645b220" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="ztype" />
+                <option name="value" value="zone" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="fields" />
+                <option name="value" value="bytes_total,bytes_hit,req_hit,pv,uv,ip" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="per_page" />
+                <option name="value" value="1024" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://api.su.baidu.com" />
+          <option name="urlPath" value="/v3/yjs/analytics/summarycount" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="X-Auth-Access-Key" />
+                <option name="value" value="30fa7ff1a37b4a238c2a7e4ab8d6998f" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="X-Auth-Signature-Method" />
+                <option name="value" value="SIGN_METHOD" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="zname" />
+                <option name="value" value="sharehoo.cn" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filter_type" />
+                <option name="value" value="date" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_key" />
+                <option name="value" value="30fa7ff1a37b4a238c2a7e4ab8d6998f" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="secret_key" />
+                <option name="value" value="877f618c7f324949be38ef547645b220" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="ztype" />
+                <option name="value" value="zone" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="fields" />
+                <option name="value" value="bytes_total,bytes_hit,req_hit,pv,uv,ip" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="per_page" />
+                <option name="value" value="1024" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://api.su.baidu.com" />
+          <option name="urlPath" value="/v3/yjs/analytics/summarycount" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_key" />
+                <option name="value" value="30fa7ff1a37b4a238c2a7e4ab8d6998f" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="secret_key" />
+                <option name="value" value="877f618c7f324949be38ef547645b220" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="zname" />
+                <option name="value" value="sharehoo.cn" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filter_type" />
+                <option name="value" value="date" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_key" />
+                <option name="value" value="30fa7ff1a37b4a238c2a7e4ab8d6998f" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="secret_key" />
+                <option name="value" value="877f618c7f324949be38ef547645b220" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="ztype" />
+                <option name="value" value="zone" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="fields" />
+                <option name="value" value="bytes_total,bytes_hit,req_hit,pv,uv,ip" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="per_page" />
+                <option name="value" value="1024" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://api.su.baidu.com" />
+          <option name="urlPath" value="/v3/yjs/analytics/summarycount" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_key" />
+                <option name="value" value="30fa7ff1a37b4a238c2a7e4ab8d6998f" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="secret_key" />
+                <option name="value" value="877f618c7f324949be38ef547645b220" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="domain" />
+                <option name="value" value="sharehoo.cn" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filter_type" />
+                <option name="value" value="date" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_key" />
+                <option name="value" value="30fa7ff1a37b4a238c2a7e4ab8d6998f" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="secret_key" />
+                <option name="value" value="877f618c7f324949be38ef547645b220" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://api.su.baidu.com" />
+          <option name="urlPath" value="/v3/yjs/analytics/summarycount" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="domain" />
+                <option name="value" value="sharehoo.cn" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filter_type" />
+                <option name="value" value="date" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="access_key" />
+                <option name="value" value="30fa7ff1a37b4a238c2a7e4ab8d6998f" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="secret_key" />
+                <option name="value" value="877f618c7f324949be38ef547645b220" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://api.su.baidu.com" />
+          <option name="urlPath" value="/v3/yjs/analytics/summarycount" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="domain" />
+                <option name="value" value="sharehoo.cn" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filter_type" />
+                <option name="value" value="date" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="https://api.su.baidu.com" />
+          <option name="urlPath" value="v3/yjs/analytics/summarycount" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="domain" />
+                <option name="value" value="sharehoo.cn" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filter_type" />
+                <option name="value" value="date" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://api.su.baidu.com" />
+          <option name="urlPath" value="v3/yjs/analytics/summary" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="domain" />
+                <option name="value" value="sharehoo.cn" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="filter_type" />
+                <option name="value" value="date" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miki.mediator.App" />
+      <module name="8-21-中介者模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miki.mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miki.adapter.objectadapter.App" />
+      <module name="8-9-适配器模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miki.adapter.objectadapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miki.decorater.v2.App" />
+      <module name="8-8-装饰者模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miki.decorater.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miki.state.App" />
+      <module name="8-24-状态模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miki.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miki.chainofresponsibility.App" />
+      <module name="8-22-责任链设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miki.chainofresponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.App (3)" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (4)" />
+        <item itemvalue="Application.App (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5577d11a-5575-40d2-89e9-e524850acccf" name="Default Changelist" comment="" />
+      <created>1580910012961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580910012961</updated>
+      <workItem from="1580910016042" duration="2321000" />
+      <workItem from="1581043125201" duration="13503000" />
+      <workItem from="1581086505787" duration="2042000" />
+      <workItem from="1581132310750" duration="13062000" />
+      <workItem from="1581252253139" duration="9428000" />
+      <workItem from="1581263080140" duration="333000" />
+      <workItem from="1581307400918" duration="10970000" />
+      <workItem from="1581342021235" duration="6887000" />
+      <workItem from="1581392042723" duration="4571000" />
+      <workItem from="1581477394434" duration="12779000" />
+      <workItem from="1581519880031" duration="1074000" />
+      <workItem from="1581562112466" duration="18374000" />
+      <workItem from="1581652438295" duration="4605000" />
+      <workItem from="1581665337458" duration="1199000" />
+      <workItem from="1581839606815" duration="6191000" />
+      <workItem from="1581911876730" duration="599000" />
+      <workItem from="1582173365871" duration="7437000" />
+      <workItem from="1582250109504" duration="7081000" />
+      <workItem from="1582341004072" duration="18563000" />
+      <workItem from="1582423316635" duration="5151000" />
+      <workItem from="1582512136895" duration="15522000" />
+      <workItem from="1582596894049" duration="3938000" />
+      <workItem from="1582676903946" duration="7759000" />
+      <workItem from="1582771336563" duration="11569000" />
+      <workItem from="1582860629145" duration="2910000" />
+      <workItem from="1582952946889" duration="9540000" />
+      <workItem from="1583038694567" duration="4583000" />
+      <workItem from="1583113780316" duration="1221000" />
+      <workItem from="1583202987601" duration="1759000" />
+      <workItem from="1583299794006" duration="1418000" />
+      <workItem from="1583370920337" duration="635000" />
+      <workItem from="1583452455586" duration="3173000" />
+      <workItem from="1583553918400" duration="71000" />
+      <workItem from="1583554019300" duration="481000" />
+      <workItem from="1583554740334" duration="349000" />
+      <workItem from="1583555111118" duration="1262000" />
+      <workItem from="1583806364682" duration="8483000" />
+      <workItem from="1583888196668" duration="8317000" />
+      <workItem from="1584108533610" duration="1706000" />
+      <workItem from="1584147940294" duration="4365000" />
+      <workItem from="1584239201811" duration="5747000" />
+      <workItem from="1584533786952" duration="4602000" />
+      <workItem from="1584757092184" duration="648000" />
+      <workItem from="1585617899466" duration="14811000" />
+      <workItem from="1585663146094" duration="4851000" />
+      <workItem from="1585705490120" duration="15420000" />
+      <workItem from="1587042916505" duration="1652000" />
+      <workItem from="1587796787796" duration="1852000" />
+      <workItem from="1587994841634" duration="6577000" />
+      <workItem from="1590376520220" duration="606000" />
+      <workItem from="1590458200746" duration="948000" />
+      <workItem from="1590543079554" duration="617000" />
+      <workItem from="1590644396746" duration="8211000" />
+      <workItem from="1590989861770" duration="614000" />
+      <workItem from="1591062290898" duration="664000" />
+      <workItem from="1591248980911" duration="599000" />
+      <workItem from="1595131741542" duration="4704000" />
+      <workItem from="1597213415315" duration="1198000" />
+      <workItem from="1597797853419" duration="2682000" />
+      <workItem from="1598781314871" duration="3002000" />
+      <workItem from="1598838646408" duration="635000" />
+      <workItem from="1599017259441" duration="4317000" />
+      <workItem from="1599102734053" duration="2665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="322853000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.72560114" visible="true" weight="0.13059701" />
+      <window_info id="Structure" order="1" sideWeight="0.27439886" side_tool="true" weight="0.14410187" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3550212" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.12737921" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.043923866" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info active="true" anchor="bottom" id="REST Client" order="15" visible="true" weight="0.431918" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="SciView" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-4-建造者模式/src/com/miki/builder/Coach.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-4-建造者模式/src/com/miki/builder/CourseActualBuilder.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>426</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>1563</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>1566</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/8-5-单例模式/src/com/warehouse/WareHouse.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-10-享元模式/src/com/miki/flyweight/App.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-13-代理模式-maven/src/main/java/com/miki/proxy/dynamicproxy/OrderServiceDynamicProxy.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-17-解释器模式/src/com/miki/interpreter/ExpressionParser.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Work/maven-house/repository/org/springframework/spring-expression/4.0.3.RELEASE/spring-expression-4.0.3.RELEASE.jar!/org/springframework/expression/spel/standard/InternalSpelExpressionParser.class</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-18-观察者模式/src/main/java/com/miki/observer/Question.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-18-观察者模式/src/main/java/com/miki/observer/Question.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/8-18-观察者模式/src/main/java/com/miki/guavademo/GuavaEvent.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/8-18-观察者模式/src/main/java/com/miki/guavademo/GuavaEvent.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-18-观察者模式/src/main/java/com/miki/guavademo/ThreadTest.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/ArticleApprover.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/VideoApprover.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/Approver.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/8-8-装饰者模式/src/com/miki/decorater/v2/AbstractDecorator.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/8-14-模板方法模式/src/com/miki/templatemethod/ACourse.java</url>
+          <line>25</line>
+          <properties class="com.miki.templatemethod.ACourse" method="nakeVideo">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>6</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>(symbol.equals(&quot;+&quot;) || symbol.equals(&quot;*&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(int)(Math.random()*departments.length)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.random()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.random()*departments.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(int)Math.random()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(int)Math.random()*departments.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>video instanceof JavaVideo</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1+1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/AC220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-8-装饰者模式/src/com/miki/decorater/v2/ADrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-8-装饰者模式/src/com/miki/decorater/v2/AbstractDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-开闭原则/src/定义说明">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-里氏替换原则/src/定义说明">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/classadapter/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/classadapter/ConcreteTargetImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-迪米特法则/src/定义说明">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-8-装饰者模式/src/com/miki/decorater/v2/IceDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-23-访问者模式/src/com/miki/visitor/FreeCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-3-抽象工厂模式/src/com/miki/abstractfactory/v1/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-3-抽象工厂模式/src/com/miki/abstractfactory/v1/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-接口隔离原则/src/定义说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-3-抽象工厂模式/src/com/miki/abstractfactory/v1/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/demo2/interfaces/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/demo2/FilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/demo2/interfaces/HtmlFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/demo2/interfaces/SensitiveFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/demo2/MsgProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/ArticleApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/Approver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/classadapter/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-8-装饰者模式/src/com/miki/decorater/v2/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-23-访问者模式/src/com/miki/visitor/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-3-抽象工厂模式/src/com/miki/abstractfactory/v1/JavaCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-3-抽象工厂模式/src/com/miki/abstractfactory/v1/PythonArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/classadapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-22-责任链设计模式/src/com/miki/chainofresponsibility/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="6" column="71" lean-forward="true" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/objectadapter/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/objectadapter/ConcreteTargetImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/DC5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-7-外观模式/src/com/miki/structural/PointGiftExchangeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="84" lean-forward="true" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-7-外观模式/src/com/miki/structural/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-7-外观模式/定义说明">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-8-装饰者模式/src/com/miki/decorater/v1/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-8-装饰者模式/src/com/miki/decorater/v1/DrinkWithSagar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-18-观察者模式/src/main/java/com/miki/guavademo/GuavaEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-8-装饰者模式/src/com/miki/decorater/v2/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-13-代理模式-maven/src/main/java/com/miki/proxy/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/定义说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/objectadapter/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/objectadapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/objectadapter/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-9-适配器模式/src/com/miki/adapter/PowerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-13-代理模式-maven/src/main/java/com/miki/proxy/dynamicproxy/OrderServiceDynamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-13-代理模式-maven/src/main/java/com/miki/proxy/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-13-代理模式-maven/src/main/java/com/miki/proxy/OrderDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-13-代理模式-maven/定义说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-8-装饰者模式/定义说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>简单工厂模式</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

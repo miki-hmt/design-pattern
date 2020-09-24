@@ -1,0 +1,15 @@
+{
+  "errors": [
+    {
+      "message": "Bad signature:need in http header:X-Auth-Access-Key",
+      "code": 10010
+    }
+  ],
+  "messages": [
+    {
+      "client_uuid": "8ba1227b941b07e1"
+    }
+  ],
+  "result": {},
+  "success": false
+}

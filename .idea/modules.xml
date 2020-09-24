@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-开闭原则/1-开闭原则.iml" filepath="$PROJECT_DIR$/1-开闭原则/1-开闭原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-依赖倒置原则/2-依赖倒置原则.iml" filepath="$PROJECT_DIR$/2-依赖倒置原则/2-依赖倒置原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-单一职责原则/3-单一职责原则.iml" filepath="$PROJECT_DIR$/3-单一职责原则/3-单一职责原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-接口隔离原则/4-接口隔离原则.iml" filepath="$PROJECT_DIR$/4-接口隔离原则/4-接口隔离原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-迪米特法则/5-迪米特法则.iml" filepath="$PROJECT_DIR$/5-迪米特法则/5-迪米特法则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-里氏替换原则/6-里氏替换原则.iml" filepath="$PROJECT_DIR$/6-里氏替换原则/6-里氏替换原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-合成（组合）复用原则/7-合成（组合）复用原则.iml" filepath="$PROJECT_DIR$/7-合成（组合）复用原则/7-合成（组合）复用原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-########### 【设计模式】 ############/8-########### 【设计模式】 ############.iml" filepath="$PROJECT_DIR$/8-########### 【设计模式】 ############/8-########### 【设计模式】 ############.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-1-简单工厂模式/8-1-简单工厂模式.iml" filepath="$PROJECT_DIR$/8-1-简单工厂模式/8-1-简单工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-1-简单工厂模式-maven/8-1-简单工厂模式-maven.iml" filepath="$PROJECT_DIR$/8-1-简单工厂模式-maven/8-1-简单工厂模式-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-10-享元模式/8-10-享元模式.iml" filepath="$PROJECT_DIR$/8-10-享元模式/8-10-享元模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-11-组合模式/8-11-组合模式.iml" filepath="$PROJECT_DIR$/8-11-组合模式/8-11-组合模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-12-桥接模式/8-12-桥接模式.iml" filepath="$PROJECT_DIR$/8-12-桥接模式/8-12-桥接模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-13-代理模式-maven/8-13-代理模式-maven.iml" filepath="$PROJECT_DIR$/8-13-代理模式-maven/8-13-代理模式-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-14-模板方法模式/8-14-模板方法模式.iml" filepath="$PROJECT_DIR$/8-14-模板方法模式/8-14-模板方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-15-迭代器模式/8-15-迭代器模式.iml" filepath="$PROJECT_DIR$/8-15-迭代器模式/8-15-迭代器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-16-策略模式/8-16-策略模式.iml" filepath="$PROJECT_DIR$/8-16-策略模式/8-16-策略模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-17-解释器模式-maven/8-17-解释器模式-maven.iml" filepath="$PROJECT_DIR$/8-17-解释器模式-maven/8-17-解释器模式-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-18-观察者模式/8-18-观察者模式.iml" filepath="$PROJECT_DIR$/8-18-观察者模式/8-18-观察者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-19-备忘录模式/8-19-备忘录模式.iml" filepath="$PROJECT_DIR$/8-19-备忘录模式/8-19-备忘录模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-2-工厂模式/8-2-工厂模式.iml" filepath="$PROJECT_DIR$/8-2-工厂模式/8-2-工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-20-命令模式/8-20-命令模式.iml" filepath="$PROJECT_DIR$/8-20-命令模式/8-20-命令模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-21-中介者模式/8-21-中介者模式.iml" filepath="$PROJECT_DIR$/8-21-中介者模式/8-21-中介者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-22-责任链设计模式/8-22-责任链设计模式.iml" filepath="$PROJECT_DIR$/8-22-责任链设计模式/8-22-责任链设计模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-23-访问者模式/8-23-访问者模式.iml" filepath="$PROJECT_DIR$/8-23-访问者模式/8-23-访问者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-24-状态模式/8-24-状态模式.iml" filepath="$PROJECT_DIR$/8-24-状态模式/8-24-状态模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-3-抽象工厂模式/8-3-抽象工厂模式.iml" filepath="$PROJECT_DIR$/8-3-抽象工厂模式/8-3-抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-4-建造者模式/8-4-建造者模式.iml" filepath="$PROJECT_DIR$/8-4-建造者模式/8-4-建造者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-5-单例模式/8-5-单例模式.iml" filepath="$PROJECT_DIR$/8-5-单例模式/8-5-单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-6-原型模式/8-6-原型模式.iml" filepath="$PROJECT_DIR$/8-6-原型模式/8-6-原型模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-7-外观模式/8-7-外观模式.iml" filepath="$PROJECT_DIR$/8-7-外观模式/8-7-外观模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-8-装饰者模式/8-8-装饰者模式.iml" filepath="$PROJECT_DIR$/8-8-装饰者模式/8-8-装饰者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-9-适配器模式/8-9-适配器模式.iml" filepath="$PROJECT_DIR$/8-9-适配器模式/8-9-适配器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/软件设计7大原则+23大设计模式.iml" filepath="$PROJECT_DIR$/软件设计7大原则+23大设计模式.iml" />
+    </modules>
+  </component>
+</project>

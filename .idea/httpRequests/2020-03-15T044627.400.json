@@ -1,0 +1,15 @@
+{
+  "errors": [
+    {
+      "message": "Bad signature:need in http header:X-Auth-Sign",
+      "code": 10010
+    }
+  ],
+  "messages": [
+    {
+      "client_uuid": "8ba18ae7e07c07e1"
+    }
+  ],
+  "result": {},
+  "success": false
+}
