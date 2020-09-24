@@ -1,37 +1,37 @@
 package com.miki.chainofresponsibility.demo2;
 
-import com.miki.chainofresponsibility.demo2.interfaces.Filter;
-
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @ClassName FilterChain
- * @Description TODO
- * @Author miki
- * @Date 2020/8/12 14:28
- * @Version 1.0
+ * Created by yuyu on 2017/7/5.
  */
-/*2019.01.04	miki
- * 过滤连实现类，可以对多个过滤类进行增删改查
- */
-public class FilterChain {
+public class FilterChain implements Filter {
 
-    private List<Filter> filters = new ArrayList<>();
 
-    //添加责任链方法
-    public void addFilter(Filter f) {
-        this.filters.add(f);
+    //用List集合来存储过滤规则
+    List<Filter> filters = new ArrayList<Filter>();
+    //用于标记规则的引用顺序
+    int index = 0;
+
+    //往规则链条中添加规则
+    public FilterChain addFilter(Filter f) {
+        filters.add(f);
+        //代码的设计技巧:Chain链添加过滤规则结束后返回添加后的Chain，方便我们下面doFilter函数的操作
+        return this;
     }
 
-    //实现责任链过滤方法
-    public String doFilter(String str) {
-        String r = str;
-
-        for (Filter f : filters) {
-            r = f.doFilter(r);
+    public void doFilter(Request request, Response response, FilterChain chain) {
+        //index初始化为0,filters.size()为3，不会执行return操作
+        if (index == filters.size()) {
+            return;
         }
-
-        return r;
+        //每添加一个过滤规则，index自增1
+        Filter f = filters.get(index);
+        index++;
+        //根据索引值获取对应的规律规则对字符串进行处理
+        f.doFilter(request, response, chain);
     }
+
+
 }
